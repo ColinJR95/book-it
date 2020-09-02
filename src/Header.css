@@ -7,4 +7,17 @@
 
 .header {
 	display: flex;
+	justify-content: space-between;
+}
+
+.header_center {
+	display: flex;
+	flex: 1;
+
+	align-items: center;
+}
+
+.header_right {
+	display: flex;
+	align-items: center;
 }
