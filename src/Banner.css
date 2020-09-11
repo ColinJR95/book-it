@@ -34,3 +34,15 @@
 	color: #ff4d4d;
 }
 
+.banner_searchButton {
+	background-color: white !important;
+	font-weight: 900 !important;
+	text-transform: inherit !important;
+	color: #ff4d4d !important;
+
+}
+
+.banner_search {
+	display: flex;
+	flex-direction: column;
+}
