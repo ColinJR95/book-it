@@ -11,6 +11,7 @@ function Banner() {
 		<div className="banner">
 			<div className="banner_search">
 				{showSearch && <Search /> }
+				
 				<Button onClick={()=> 
 					setShowSearch(!showSearch)}
 				className="banner_searchButton" variant="outlined">
