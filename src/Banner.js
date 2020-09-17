@@ -11,7 +11,7 @@ function Banner() {
 		<div className="banner">
 			<div className="banner_search">
 				{showSearch && <Search /> }
-				
+
 				<Button onClick={()=> 
 					setShowSearch(!showSearch)}
 				className="banner_searchButton" variant="outlined">
@@ -27,9 +27,8 @@ function Banner() {
 						Get out and stretch your imagination
 						</h1>
 						<h5>
-						
 						Go out an plan an adventure to uncover the 
-						hidden wonders of the work 
+						hidden wonders of the world.
 						</h5>
 					 <Button variant="outlined">
 						Explore Nearby
