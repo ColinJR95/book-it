@@ -14,7 +14,7 @@ function Home() {
 
 	 		<div className="home_section">
 	 			<Card 
-			 		src="https://www.incimages.com/uploaded_files/image/1920x1080/shutterstock_500593225_354026.jpg"
+			 		src="https://cdn.mindful.org/leadership.png?q=80&fm=jpg&fit=crop&w=1400&h=875"
 	                title="Online Experiences"
 	                description="Unique activities we can do together, led by a world of hosts."/>	
 	 			<Card
