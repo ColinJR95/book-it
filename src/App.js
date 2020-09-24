@@ -38,15 +38,3 @@ function App() {
 
 export default App;
 
-
-{ /* HOME */}
-    {/* Header */}
-
-    {/* Banner */}
-      {/* search */}
-
-    {/* Footer */}
-
-{/* SEARCHPAGE */}
-    {/* Header */} 
-    {/* ... */}
