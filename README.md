@@ -7,4 +7,4 @@ Pretty much an airbnb clone!
 -responsive design 
 -firebase hosted
 
-Check it out here! book-it-3db20.web.app
+Check it out here! (https://book-it-3db20.web.app/)
