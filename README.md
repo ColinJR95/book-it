@@ -1,4 +1,4 @@
-Pretty much an airbnb clone!
+Pretty much an airbnb clone! Front end only at the moment. 
 
 
 -Material UI
